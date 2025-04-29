@@ -105,6 +105,12 @@
       "download": "+100K"
     },
     {
+      "name": "Music Imen Es & Lyrics Offline",
+      "packageName": "com.imenes.essaieencore.gouss",
+      "icon": "https://play-lh.googleusercontent.com/LcpG_n9rLFukhB-Wapu6nTODvADdnLSifYpAfzYwnrxsxQcHfadLkbXl1Okqm-XEesA=w240-h480",
+      "download": "+10K"
+    },
+    {
       "name": "Xxxtentation & lyrics offline",
       "packageName": "com.khabib.zara.gouss",
       "icon": "https://play-lh.googleusercontent.com/mlYA880v2pKLRtVJXMCZwPlN7VGT3d2jycLm6fBxVTEMJ7C-xpUiyBAkrvuS5dfAV1s=w240-h480",
@@ -120,6 +126,12 @@
       "name": "Music Soprano & Lyrics Offline",
       "packageName": "com.soprano.paranoia.gouss",
       "icon": "https://play-lh.googleusercontent.com/NaSDE9z99k8eLM5J8EkXpjQ9Jx1ILH0sN2G_qxrU2ShuVxmF1CAn6vij3F7FRaGDj-o=w240-h480",
+      "download": "+50k"
+    },
+    {
+      "name": "Music NAZA & Lyrics Offline",
+      "packageName": "com.naza.agogo.gouss",
+      "icon": "https://play-lh.googleusercontent.com/2E9ZrEH95lC2OiovLxfeAMHsgCDijjgC5BNoaOAXiJzhWMQEn_8JUBsRJ-brAQHXqWU=w240-h480",
       "download": "+50k"
     },
     {
