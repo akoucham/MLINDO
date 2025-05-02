@@ -20,14 +20,14 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 0,
+      "NativeAdRow"        : 5,
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "",
-        "AdMobInterstitial"   : "",
-        "AdMobNative"         : "",
-        "AdMobOpenAd"         : "",
+        "AdMobBanner"         : "ca-app-pub-3147524971917133/3496848459",
+        "AdMobInterstitial"   : "ca-app-pub-3147524971917133/2543677678",
+        "AdMobNative"         : "ca-app-pub-3147524971917133/9879881253",
+        "AdMobOpenAd"         : "ca-app-pub-3147524971917133/4226867074",
         
         "FacebookBanner"      : "",
         "FacebookInterstitial": "",
@@ -99,6 +99,12 @@
       "download": "+50k"
     },
     {
+      "name": "Amel Bent & Lyrics Offline",
+      "packageName": "com.amelbent.vivante.gouss",
+      "icon": "https://play-lh.googleusercontent.com/lGWDQeioDinsuT5pQpuAMcLgY8nCumUiEN_cnEsjiFlFMMf1cTzYrbMKDuVwtH9zAw=w240-h480",
+      "download": "+50k"
+    },
+    {
       "name": "Music Karol G & Lyrics Offline",
       "packageName": "com.miaboyka.mamama.gouss",
       "icon": "https://play-lh.googleusercontent.com/aj0b-raTCYHyf2Iy7gfr0VYPsCWr4dRJmu-wrfG5RT1ukJ3zgadsL96ujx0pCbdNEZQ=w240-h480",
@@ -129,6 +135,12 @@
       "download": "+50k"
     },
     {
+      "name": "Music 13 Organisé & Lyrics",
+      "packageName": "com.treize.organise.gouss",
+      "icon": "https://play-lh.googleusercontent.com/w9dr8jxQuxwBck__2Re4UKt2FdaDiCSGl2u7djF3q79MYyDU8rcpHZZIdNDZF8Pi-Vs=w240-h480",
+      "download": "+50k"
+    },
+    {
       "name": "Music NAZA & Lyrics Offline",
       "packageName": "com.naza.agogo.gouss",
       "icon": "https://play-lh.googleusercontent.com/2E9ZrEH95lC2OiovLxfeAMHsgCDijjgC5BNoaOAXiJzhWMQEn_8JUBsRJ-brAQHXqWU=w240-h480",
@@ -150,6 +162,12 @@
       "name": "Fally Ipupa & Lyrics Offline",
       "packageName": "com.fally.ipuppa.gouss",
       "icon": "https://play-lh.googleusercontent.com/Ic_RiNNUCbAnm935MZx_zTpzjfonypZaIegPmL8B9jv1FyLeZ7hBUcpT8p3ctf5kiRs=w240-h480",
+      "download": "+50K"
+    },
+    {
+      "name": "Music Mlindo & Lyrics Offline",
+      "packageName": "com.thevoca.listmlindo.gouss",
+      "icon": "https://play-lh.googleusercontent.com/n5Pb9-NmHGRWf0Rmlvt8TMGuVDjGtgc-lHBFvsXF5-Go1C85M7XSVOe6TYgB5flaPDI=w240-h480",
       "download": "+50K"
     },
     {
